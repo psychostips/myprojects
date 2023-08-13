@@ -1,0 +1,33 @@
+.topo {
+    min-height: 80px;
+}
+
+.hero {
+    min-height: 400px;
+    background-image: url(imagens/premium_dancer.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 400px;
+}
+
+.item {
+    min-height: 200px;
+    border: none;
+}
+.mer {
+    
+}
+.h1 {
+    margin-top: 50px;
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+}
+.botao {
+    width: 200px;
+    height: 100px;
+    padding: 25px;
+}
+.p {
+    font-size: 1px;
+}
